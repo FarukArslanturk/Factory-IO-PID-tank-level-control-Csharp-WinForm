@@ -1,0 +1,5 @@
+
+2- görsel tasarým geliþtirilecek 
+ 
+
+5- factory i/o açýk deðilken form'a start verilirse hata vermeyecek, "programý açýn" uyarýsý verecek

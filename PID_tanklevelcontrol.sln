@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PID_tanklevelcontrol", "PID_tanklevelcontrol.csproj", "{B52C44AD-4AD6-48F5-AFBF-8E05E1499CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52C44AD-4AD6-48F5-AFBF-8E05E1499CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52C44AD-4AD6-48F5-AFBF-8E05E1499CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52C44AD-4AD6-48F5-AFBF-8E05E1499CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52C44AD-4AD6-48F5-AFBF-8E05E1499CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B797BF7-3E44-47C0-848F-79C30F0B8B65}
+	EndGlobalSection
+EndGlobal
